@@ -21,3 +21,17 @@ Ensure you have the necessary permissions to execute scripts and install softwar
 ```bash
 git clone https://github.com/EmperialX/Linux-Tools-Setup.git
 cd Linux-Tools-Setup
+```
+
+## Creating a New Script
+
+### To contribute a new installation script, follow these steps:
+
+    Fork the repository.
+    Create your script and name it install-<toolname>.sh.
+    Ensure your script follows the format of existing scripts.
+    Submit a pull request with a description of the tool and the installation process.
+
+### Contributing
+
+We welcome contributions! to support Linux users.
